@@ -1,4 +1,8 @@
-### Hi there <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+아주대 소프트웨어학과 21학번 새내기 헿
+
+
+
+### <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
 
 
 
