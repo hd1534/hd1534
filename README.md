@@ -1,4 +1,8 @@
-### Hi there <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+### Hi there <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+
+
+
+
 <!--
 **hd1534/hd1534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
