@@ -3,6 +3,8 @@
 
 ### <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
 
+뭔가 예전에 한거 : https://gitlab.com/hd1534
+
 
 
 
