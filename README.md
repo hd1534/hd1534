@@ -1,9 +1,11 @@
 ### 아주대 소프트웨어학과 21학번 새내기 헿
 #### 전 디미고 17기 JNJ
 
-### <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+### <p align="center">[![hd1534's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+[![hd1534's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hd1534)](https://github.com/anuraghazra/github-readme-stats)
 
 뭔가 예전에 한거 : https://gitlab.com/hd1534
+
 
 
 
