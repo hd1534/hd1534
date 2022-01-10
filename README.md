@@ -1,7 +1,5 @@
-### 현 SoMa 12기 && 아주대 소프트웨어학과 21학번 새내기 헿
-#### 전 디미고 17기 JNJ
-
-#### 현재 소마 깃랩에 작업중이라 잔디 심기가 안되는중...
+### 현 아주대 소프트웨어학과
+#### 전 디미고 17기 JNJ && SoMa 12기
 
 ### <p align="center">[![hd1534's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd1534&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>[![hd1534's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hd1534)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hd1534&langs_count=20&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper">
 </p>
