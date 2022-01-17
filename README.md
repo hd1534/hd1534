@@ -5,13 +5,13 @@
 </p>
 
 
-뭔가 예전에 한거 : https://gitlab.com/hd1534
 
 
 
 
 
 <!--
+뭔가 예전에 한거 : https://gitlab.com/hd1534
 **hd1534/hd1534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
