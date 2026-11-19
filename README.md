@@ -2,7 +2,7 @@
 
 #### 전 디미고 17기 JNJ && SoMa 12기 && 루닛 인턴 && 공군 체계단 개발대
 
-https://ossca-thorvg.github.io/Hackathon-Rubiks-Cube/
+https://thorvg-community-kr.github.io/Hackathon-Rubiks-Cube/?extended
 
 [![wakatime](https://wakatime.com/badge/user/7df2bd55-08ac-42d5-be12-2eb7b6987dd5.svg)](https://wakatime.com/@7df2bd55-08ac-42d5-be12-2eb7b6987dd5)
 
